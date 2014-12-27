@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GazRos</string>
+    <string name="full_app_name">GazRos - Газелисты России</string>
+    <string name="dummy_button">ВОЙТИ</string>
+    <string name="dummy_content">СИСТЕМА\nГАЗРОС</string>
+    <string name="login_prompt">Имя:</string>
+    <string name="password_prompt">Пароль:</string>
+    <string name="site_info">Полную информацию о системе можно получить на сайте www.gazros.com.</string>
+    <string name="reg_info">Если Вы новый пользователь, то Вам необходима регистрация в системе.</string>
+    <string name="reg_info_btn">Регистрация</string>
+    <string name="site_info_button">Сайт</string>
+    <string name="remember_check_button">Запомнить</string>
+    <string name="update_button">Купить</string>
+    <string name="update_prompt">Купить подписку на месяц.</string>
+    <string name="remember_prompt">Забыл имя/пароль</string>
+    <string name="exit_button">Закрыть</string>
+    <string name="enter_button">Войти</string>
+    <string name="app_description">GazRos - Газелисты России\\nСистема информационной кооперации грузоперевозчиков.</string>
+    <string name="app_descripton">GazRos - Газелисты россии. Система информационной кооперации грузоперевозчиков.</string>
+    <string name="register_button">Регистрация</string>
+    <string name="username_prompt">Псевдоним</string>
+    <string name="rules_prompt">Я принимаю условия</string>
+    <string name="rules_text">"Условия лизензионного соглашения. "</string>
+    <string name="title_activity_order_list_fullscreen">OrderListFullscreenActivity</string>
+    <string name="order_get">Взять</string>
+    <string name="order_monitor_prompt">Отслеживать</string>
+    <string name="order_cancel">Отказ</string>
+    <string name="order_put">Дать</string>
+    <string name="order_my">Мои/Все</string>
+</resources>

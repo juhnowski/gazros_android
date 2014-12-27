@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="title_activity_login">Вход</string>
+
+    <!-- Strings related to login -->
+    <string name="login_prompt_email">Email</string>
+    <string name="login_prompt_password">Пароль</string>
+    <string name="login_action_sign_in_register">Вход</string>
+    <string name="login_action_sign_in_short">Вход</string>
+    <string name="login_action_forgot_password">Восстановить пароль</string>
+    <string name="login_login_progress_signing_in">Соединение с сервером&#8230;</string>
+    <string name="login_error_invalid_email">Некорректный адрес</string>
+    <string name="login_error_invalid_password">Короткий пароль</string>
+    <string name="login_error_incorrect_password">Пароль неверный</string>
+    <string name="login_error_field_required">Обязательное поле</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GazRos</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_remember">Запомнить меня</string>
+    <string name="title_activity_new_order">Новый заказ</string>
+    <string name="title_activity_cancel_order">Отказаться</string>
+    <string name="title_activity_my_orders">Мои Заказы</string>
+    <string name="title_activity_new_orders">Новые Заказы</string>
+    <string name="title_activity_waiting">На подтверждении</string>
+    <string name="title_activity_all_orders">Все Заказы</string>
+    <string name="main_all_orders">Все заказы</string>
+    <string name="main_my_orders">Мои заказы</string>
+    <string name="main_new_order">Разместить заказ</string>
+    <string name="main_new_orders">Новые заказы</string>
+    <string name="main_cancel_order">Отказаться от заказа</string>
+    <string name="main_site">Сайт</string>
+    <string name="main_update">Обновить</string>
+    <string name="main_update_text">Срок действия активной подписки:</string>
+    <string name="main_update_date_str">01 Апр 2014</string>
+    <string name="login_reg_button">Регистрация</string>
+    <string name="main_settings">Настройки</string>
+    <string name="neworder_prompt">Маршрут:</string>
+    <string name="neworder_prise">Стоимость:</string>
+    <string name="neworder_submit">Разместить</string>
+
+</resources>

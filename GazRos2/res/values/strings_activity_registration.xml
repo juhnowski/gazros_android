@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="title_activity_registration">Регистрация</string>
+
+    <!-- Strings related to login -->
+    <string name="reg_prompt_email">Email</string>
+    <string name="reg_prompt_password">Пароль</string>
+    <string name="reg_action_sign_in_register">Регистрация</string>
+    <string name="reg_action_sign_in_short">Регистрация</string>
+    <string name="reg_action_forgot_password">Recover lost password</string>
+    <string name="reg_login_progress_signing_in">Соединение с сервером&#8230;</string>
+    <string name="reg_error_invalid_email">Введен неверный email адрес </string>
+    <string name="reg_error_invalid_password">Это короткий пароль</string>
+    <string name="reg_error_incorrect_password">Этот пароль неверный</string>
+    <string name="reg_error_field_required">Это поле является обязательным</string>
+    
+</resources>
